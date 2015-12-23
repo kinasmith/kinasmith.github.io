@@ -10,12 +10,6 @@ img.bg {
   /* Set up proportionate scaling */
   width: 50%;
   height: auto;
-	
-  /* Set up positioning */
-  /*position: fixed;*/
-  /*top: 0;*/
-  /*left: ;*/
-
     display: block;
     margin-left: auto;
     margin-right: auto
