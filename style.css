@@ -1,10 +1,14 @@
+body {
+    background-color: black;
+}
+
 img.bg {
   /* Set rules to fill background */
-  min-height: 100%;
+  min-height: 50%;
   min-width: 600px;
 	
   /* Set up proportionate scaling */
-  width: 100%;
+  width: 50%;
   height: auto;
 	
   /* Set up positioning */
