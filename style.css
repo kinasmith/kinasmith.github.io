@@ -12,9 +12,9 @@ img.bg {
   height: auto;
 	
   /* Set up positioning */
-  position: fixed;
+  /*position: fixed;*/
   top: 0;
-  left: 0;
+  left: 50%;
 }
 
 @media screen and (max-width: 600px) { /* Specific to this particular image */
